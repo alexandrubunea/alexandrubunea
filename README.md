@@ -12,4 +12,4 @@ My GitHub is a testament to my dedication to self-imposed challenges. Each proje
 When I'm not immersed in code, you'll find me on spontaneous car trips, diving into exciting video games, enjoying good times with friends, or simply catching up on some much-needed sleep. 🎮🛌
 
 ![alexandrubunea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrubunea&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=alexandrubunea&theme=radical&rank=-C,-?&&margin-w=15&no-frame=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=alexandrubunea&theme=radical&rank=-C,-?&&margin-w=15&no-frame=true)
