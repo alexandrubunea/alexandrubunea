@@ -1,4 +1,4 @@
-![welcome image](https://i.imgur.com/ysNCnid.png)
+![welcome image](https://i.imgur.com/vm7oDqE.png)
 ### About me
 Hi, I'm Alexandru! I'm a computer science student from Romania with a passion for competitive programming and a love for continuous learning. I've participated in several contests during high school, honing my skills and feeding my curiosity.
 ### Personal projects
