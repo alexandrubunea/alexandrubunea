@@ -1,15 +1,34 @@
-![welcome image](https://i.imgur.com/vm7oDqE.png)
-### About me
-Hi, I'm Alexandru! I'm a computer science student from Romania with a passion for competitive programming and a love for continuous learning. I've participated in several contests during high school, honing my skills and feeding my curiosity.
-### Personal projects
-My GitHub is a testament to my dedication to self-imposed challenges. Each project represents a new learning adventure, pushing my boundaries and expanding my knowledge. While my projects may not always delve into micro-controllers or AI, I love exploring these topics and continuously strive to master something new. 🚀
-### Skills and technologies
-- **Languages:** Python, C++, C#, Java, JavaScript, TypeScript
-- **Technologies:** Git, Jupyter Notebook, WPF
-- **Databases:** MySQL, PostgreSQL
-- **Areas of interest:** Data Structures and Algorithms, Computers Network, Computers Architecture
-### Other activites
-When I'm not immersed in code, you'll find me on spontaneous car trips, diving into exciting video games, enjoying good times with friends, or simply catching up on some much-needed sleep. 🎮🛌
+# Welcome to My GitHub Profile 🌟
 
-![alexandrubunea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrubunea&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=alexandrubunea&theme=radical&rank=-C,-?&&margin-w=15&no-frame=true)
+Hi there! I'm **Alexandru**, a passionate developer driven by the joy of transforming ideas into reality. My expertise spans **IoT**, **web development**, and **software engineering**, where I thrive on crafting innovative solutions to complex problems. Below, you'll find a snapshot of my skills and interests that fuel my creativity and passion for technology. Let's connect and collaborate on something extraordinary!
+
+## 🔧 Skills and Expertise
+
+- **Programming Languages**: Python, C++, PHP, JavaScript
+- **Embedded Systems**: ESP32, Raspberry Pi, and various hardware modules (LCDs, sensors, and more)
+- **Web Development**: Flask, Laravel, Livewire, TailwindCSS, Bootstrap
+- **Algorithm Design**: Genetic Algorithms, Differential Particle Swarm Optimization (DPSO)
+- **Game Development**: SDL2, Raylib
+- **Version Control**: Git
+- **Databases**: PostgreSQL, MySQL
+- **Linux Proficiency**: Experienced with multiple distributions, system configuration, and shell scripting
+
+## 🌐 Areas of Interest
+
+### 1. IoT Systems 🚀
+I'm fascinated by the limitless opportunities IoT presents. From designing smart home devices to developing advanced business solutions, integrating microcontrollers with software is where my imagination soars. Each project brings us closer to a more connected, efficient world.
+
+### 2. Web Development 🌍
+For me, web development is about creating seamless user experiences. I enjoy leveraging frameworks like Laravel and Flask to build robust backend systems, complemented by TailwindCSS for responsive, aesthetically pleasing designs.
+
+### 3. Secure Communication Systems 🔒
+In our data-driven world, security is key. My dedication to developing secure communication platforms, such as the ![CLI Chat Application](https://github.com/alexandrubunea/cli-chat-application), highlights my commitment to protecting information through advanced cryptographic methods.
+
+### 4. Algorithmic Problem Solving 🧩
+The challenge of solving intricate problems excites me. Whether it's the ![Vertex Cover Problem](https://github.com/alexandrubunea/vcp-problem) tackled with Genetic Algorithms or DPSO, my analytical approach ensures optimized and innovative solutions.
+
+### 5. Game Development 🎮
+Games combine creativity and logic in a unique way. Recreating classics like ![Snake](https://github.com/alexandrubunea/Cpp-SDL2-Snake) and ![Pong](https://github.com/alexandrubunea/Cpp-Raylib-Pong) allows me to explore game mechanics while indulging in a touch of nostalgia.
+
+### 6. Visualization Tools 📊
+Bringing algorithms to life through interactive visualizations is a thrilling endeavor. Creating tools that demystify complex concepts allows me to share the beauty of problem-solving with a wider audience.
